@@ -18,10 +18,4 @@
 - [Godot Engine](https://godotengine.org/) (vX.X)
 - GDScript
 
----
 
-## 📦 How to Run
-
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/raceczn/DodgetheCreeps
